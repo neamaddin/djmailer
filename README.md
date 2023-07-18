@@ -2,7 +2,7 @@
 
 [![tests](https://github.com/neamaddin/djmailer/actions/workflows/tests.yml/badge.svg)](https://github.com/neamaddin/djmailer/actions/workflows/tests.yml)
 [![codecov](https://codecov.io/gh/neamaddin/djmailer/branch/main/graph/badge.svg?token=EQSB3CD7LM)](https://codecov.io/gh/neamaddin/djmailer)
-[![python-versions](https://img.shields.io/static/v1?logo=python&label=python&message=3.8+&color=success)](https://pypi.org/project/djmailer/)
+[![python-versions](https://img.shields.io/static/v1?logo=python&label=python&message=3.8%20%2B&color=success)](https://pypi.org/project/djmailer/)
 [![PyPI](https://img.shields.io/pypi/v/djmailer?color=success)](https://pypi.org/project/djmailer/)
 [![GitHub](https://img.shields.io/pypi/l/djmailer?color=success)](https://github.com/neamaddin/djmailer/blob/master/LICENSE)
 
